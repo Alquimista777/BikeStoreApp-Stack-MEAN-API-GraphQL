@@ -21,4 +21,4 @@ class Conexion {
     }
 }
 
-module.exports = new Conexion().db
+module.exports = new Conexion()
